@@ -1,4 +1,8 @@
 body{
-    width: 100%;
-    background-color: rgb(114, 77, 77);
+    margin: 0;
+    font-family: arial, sans-serif;
+    background-image: url(../images/insp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
